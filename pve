@@ -1,0 +1,30 @@
+title:My Wishlist Rolls
+description:The rolls I want for specific weapons
+
+// Chronophage - Void Max (pve)
+//notes: Kills debuff enemies
+Killing void debuff enemies creates overshield tags:pve
+dimwishlist:item=1886840007&perks=1840239774,2680121939,776531651,2048641572,253121539
+
+
+// Hollow Denial - Anti Barrier (pve)
+//notes: Shield Generalist
+More damage per kills without stowing
+OR void debuff kills -> overshield tags:pve
+dimwishlist:item=2323544076&perks=4090651448,732557052,1048183818,557221067
+dimwishlist:item=2323544076&perks=4090651448,732557052,1048183818,776531651
+
+
+// Hollow Denial - Ammo Shield (pve)
+//notes: Heavy ammo counts
+Kills increase damage without stowing
+OR Void debuff kills gives overshield tags:pve
+dimwishlist:item=2323544076&perks=4090651448,732557052,1556840489,557221067
+dimwishlist:item=2323544076&perks=4090651448,732557052,1556840489,776531651
+
+
+// Refusal of the Call - Auto Reload (pve)
+//notes: tags:pve
+dimwishlist:item=3269398063&perks=1263609309,2420895100,3300816228,31345821,878237828
+
+
