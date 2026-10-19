@@ -1,6 +1,11 @@
 title:My Wishlist Rolls
 description:The rolls I want for specific weapons
 
+// Refusal of the Call (pve)
+//notes: tags:pve
+dimwishlist:item=1541324871&perks=2154730217,1065371964,3878366039,639190697,2710582428
+
+
 // Chronophage - Void Max (pve)
 //notes: Kills debuff enemies
 Killing void debuff enemies creates overshield tags:pve
@@ -21,10 +26,5 @@ Kills increase damage without stowing
 OR Void debuff kills gives overshield tags:pve
 dimwishlist:item=2323544076&perks=4090651448,732557052,1556840489,557221067
 dimwishlist:item=2323544076&perks=4090651448,732557052,1556840489,776531651
-
-
-// Refusal of the Call - Auto Reload (pve)
-//notes: tags:pve
-dimwishlist:item=3269398063&perks=1263609309,2420895100,3300816228,31345821,878237828
 
 
