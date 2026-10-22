@@ -6,13 +6,9 @@ dimwishlist:item=771811870&perks=1820235745,3708227201
 dimwishlist:item=771811870&perks=1820235745,1202584452
 
 
-// Steelfeather Repeater ()
-dimwishlist:item=771811870&perks=839105230,2420895100
-
-
 // Refusal of the Call (pve)
 //notes: tags:pve
-dimwishlist:item=1541324871&perks=1263609309,1087426260,951095735,31345821,816963252
+dimwishlist:item=1541324871&perks=951095735,31345821
 
 
 // Chronophage - Void Max (pve)
@@ -42,38 +38,9 @@ dimwishlist:item=2323544076&perks=1556840489,776531651
 dimwishlist:item=2863808104&perks=1115162408,3966416502
 
 
-// Trendsetter ()
-dimwishlist:item=2863808104&perks=839105230
-
-
-// Trendsetter ()
-dimwishlist:item=2863808104&perks=2420895100
-
-
-// Trendsetter ()
-dimwishlist:item=2863808104&perks=1359896290,3966416502
-
-
 // Convened Recurve (pve)
 //notes: tags:pve
 dimwishlist:item=3667861447&perks=776531651,2048641572
 dimwishlist:item=3667861447&perks=2652708987,2048641572
-
-
-// Convened Recurve ()
-dimwishlist:item=3667861447&perks=3768438372,2154191829
-
-
-// Convened Recurve ()
-dimwishlist:item=3667861447&perks=3768438372
-
-
-// Convened Recurve ()
-dimwishlist:item=3667861447&perks=2154191829
-
-
-// Main Ingredient (pve)
-//notes: tags:pve
-dimwishlist:item=4046741099&perks=1645158859,1890422124,3846229553
 
 
